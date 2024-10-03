@@ -1,5 +1,5 @@
 ## Sejam bem vindos ao meu perfil 💙
-## Meu nome é HerculesDiogo
+## Meu nome é CaueValverde
 
 - Eu estou desenvolvendo Alura
 - Estou desenvolvendo a linguagem JavaScript
