@@ -9,4 +9,4 @@
 
  @dan1_jkk
   
-https://tenor.com/pt-BR/view/saudi-league-al-shabab-cristiano-ronaldo-al-nassr-ronaldo-angry-ronaldo-jerking-gif-3839196503983907725
+![](https://tenor.com/pt-BR/view/saudi-league-al-shabab-cristiano-ronaldo-al-nassr-ronaldo-angry-ronaldo-jerking-gif-3839196503983907725)
