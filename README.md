@@ -1,5 +1,5 @@
 ## Sejam bem vindos ao meu perfil 💙
-## Meu nome é DanielNeves
+## Meu nome é MariaEduarda
 
 - Eu estou desenvolvendo Alura
 - Estou desenvolvendo a linguagem JavaScript
@@ -8,5 +8,5 @@
 - ## você pode entrar em contato comigo📧
 
  @dan1_jkk
-![](https://media1.tenor.com/m/H-Mkm2nMKYkAAAAC/spiderman-fortnite.gif)
+![](https://media.tenor.com/Qah-WbLsIPsAAAAM/loveyou-hello.gif)
 
