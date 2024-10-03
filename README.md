@@ -1,5 +1,5 @@
 ## Sejam bem vindos ao meu perfil 💙
-## Meu nome é PedroFranca
+## Meu nome é Kassiellen
 
 - Eu estou desenvolvendo Alura
 - Estou desenvolvendo a linguagem JavaScript
@@ -8,5 +8,5 @@
 - ## você pode entrar em contato comigo📧
 
  @dan1_jkk
-![](https://media.tenor.com/H-Mkm2nMKYkAAAAM/spiderman-fortnite.gif)
+![](https://media.tenor.com/VrUxJZFdmIsAAAAM/anime-excited.gif)
 
