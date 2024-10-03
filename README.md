@@ -1,5 +1,5 @@
 ## Sejam bem vindos ao meu perfil 💙
-## Meu nome é VictorSantos
+## Meu nome é PedroFranca
 
 - Eu estou desenvolvendo Alura
 - Estou desenvolvendo a linguagem JavaScript
