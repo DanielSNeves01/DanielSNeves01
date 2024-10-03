@@ -1,5 +1,5 @@
 ## Sejam bem vindos ao meu perfil 💙
-## Meu nome é MariaEduarda
+## Meu nome é HenriqueCorazza
 
 - Eu estou desenvolvendo Alura
 - Estou desenvolvendo a linguagem JavaScript
@@ -8,5 +8,5 @@
 - ## você pode entrar em contato comigo📧
 
  @dan1_jkk
-![](https://media.tenor.com/Qah-WbLsIPsAAAAM/loveyou-hello.gif)
+![](https://media.tenor.com/H-Mkm2nMKYkAAAAM/spiderman-fortnite.gif)
 
