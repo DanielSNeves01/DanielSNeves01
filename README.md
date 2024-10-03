@@ -1,5 +1,5 @@
 ## Sejam bem vindos ao meu perfil 💙
-## Meu nome é HenriqueCorazza
+## Meu nome é DanielNeves
 
 - Eu estou desenvolvendo Alura
 - Estou desenvolvendo a linguagem JavaScript
