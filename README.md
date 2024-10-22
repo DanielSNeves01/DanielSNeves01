@@ -1,5 +1,5 @@
 ## Sejam bem vindos ao meu perfil 💙
-## Meu nome é Kassiellen
+## Meu Nome é Daniel
 
 - Eu estou desenvolvendo Alura
 - Estou desenvolvendo a linguagem JavaScript
@@ -8,5 +8,4 @@
 - ## você pode entrar em contato comigo📧
 
  @dan1_jkk
-![](https://media.tenor.com/VrUxJZFdmIsAAAAM/anime-excited.gif)
 
